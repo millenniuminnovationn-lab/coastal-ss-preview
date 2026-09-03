@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 160" role="img" aria-labelledby="title desc">
+  <title id="title">Coastal SS</title><desc id="desc">Coastal SS reverse wordmark</desc>
+  <defs><linearGradient id="coastal-mark-reverse" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#32c7bf"/><stop offset="1" stop-color="#0d9098"/></linearGradient></defs>
+  <g transform="translate(8 8)"><path fill="url(#coastal-mark-reverse)" d="M72 0a72 72 0 1 0 72 72A72 72 0 0 0 72 0Zm0 18a54 54 0 0 1 46 26H75a28 28 0 1 0 0 56h43a54 54 0 1 1-46-82Z"/><path fill="#f4b63f" d="M70 51c17 0 31 8 42 21-11 13-25 21-42 21-11 0-21-4-29-11h37l10-10-10-10H41c8-7 18-11 29-11Z"/><path fill="#fff" d="M88 64h28v6H88zm-9 16h37v6H79z" opacity=".92"/></g>
+  <g fill="#f8f5ee"><text x="176" y="82" font-family="Arial Black,Arial,sans-serif" font-size="58" letter-spacing="-2">COASTAL SS</text><text x="180" y="116" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="5">LOCAL CARS · CLEAR DEALS</text></g>
+</svg>
